@@ -78,17 +78,17 @@ featured-tags: false                     # whether or not using Feature-Tags 关
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
-
+#BY 取消friends显示
 # Friends
-friends: [
-    {
-        title: "Hux  Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Friend1",
-        href: "#"
-    },{
-        title: "Friend2",
-        href: "#"
-    }
-]
+#BY friends: [
+#BY     {
+#BY         title: "Hux  Blog",
+#BY         href: "http://huangxuan.me"
+#BY     },{
+#BY         title: "Friend1",
+#BY         href: "#"
+#BY     },{
+#BY         title: "Friend2",
+#BY         href: "#"
+#BY     }
+#BY ]
